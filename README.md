@@ -1,6 +1,6 @@
 # Users Service
 
-The goal of this exercise is to start work on creating a service that provides an implementation of the [users service api](./users-service.yaml).
+The goal of this exercise is to start work on creating a service that provides an implementation of the [users service api](./api/users-service.yaml).
 
 Note: A more human readable way to view the API is to paste the contents into [swagger's online editor](https://editor.swagger.io/).
 
@@ -15,4 +15,4 @@ For approximately 1 hour, work towards achieving the goal(s) below. We don’t e
 
 Using [TypeScript](https://www.typescriptlang.org/) and [Node.js](https://nodejs.org/en/)...
 
-- Create a service that implements the [users service api](./users-service.yaml).
+- Create a service that implements the [users service api](./api/users-service.yaml).
