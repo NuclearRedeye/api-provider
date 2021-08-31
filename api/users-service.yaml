@@ -2,11 +2,8 @@ openapi: 3.0.1
 info:
   title: User Service
   description: |-
-    An API contract for a service to store and authenticate users
+    An API contract for a service to store and authenticate users.
     View at https://editor.swagger.io/
-  termsOfService: http://example.com/terms/
-  contact:
-    email: tech@example.com
   license:
     name: MIT
     url: https://choosealicense.com/licenses/mit/
