@@ -2,7 +2,7 @@
 
 The goal of this exercise is to start work on creating a service that provides an implementation of the [users service api](./api/users-service.yaml).
 
-Note: A more human readable way to view the API is to paste the contents into [swagger's online editor](https://editor.swagger.io/).
+Note: A more human readable way to view the API is to view the api in [swagger's online editor](https://editor.swagger.io/?url=https://raw.githubusercontent.com/NuclearRedeye/api-provider/master/api/users-service.yaml).
 
 # Some advice
 - The exercise is purposely open-ended and there isn't a right or wrong answer. Just approach the problem as you normally would.
