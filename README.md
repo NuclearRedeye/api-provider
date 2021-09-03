@@ -13,6 +13,6 @@ Note: A more human readable way to view the API is to view the api in [swagger's
 # Tasks
 For approximately 1 hour, work towards achieving the goal(s) below. We don’t expect you to complete everything in the time afforded, so work at a comfortable pace and complete as much as you can.
 
-Using [TypeScript](https://www.typescriptlang.org/) and [Node.js](https://nodejs.org/en/)...
+Using [Node.js](https://nodejs.org/en/) and preferably [TypeScript](https://www.typescriptlang.org/)...
 
 - Create a service that implements the [users service api](./api/users-service.yaml).
